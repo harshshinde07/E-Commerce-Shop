@@ -25,7 +25,7 @@
     "bootstrap": "^4.5.0",
     "core-js": "^2.6.11",
     "firebase": "^7.15.5",
-    "firebase-tools": "^8.4.3",
+    "firebase-tools": "^12.4.4",
     "g": "^2.0.1",
     "rxjs": "~6.5.4",
     "rxjs-compat": "^6.5.5",
